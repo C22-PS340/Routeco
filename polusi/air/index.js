@@ -1,9 +1,9 @@
-const parse = require('csv-parse');
+const {parse} = require('csv-parse');
 const fs = require('fs');
 
 const csvData = [];
 
-fs.createReadStream(__dirname + './air/polusi_2010-2021.csv')
+fs.createReadStream(__dirname + '/polusi_2010-2021.csv')
     .pipe(
         parse({
             delimiter: ','
@@ -15,3 +15,5 @@ fs.createReadStream(__dirname + './air/polusi_2010-2021.csv')
     .on('end', function () {
         console.log(csvData);
     });
+
+    module.exports=csvData

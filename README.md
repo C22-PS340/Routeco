@@ -28,7 +28,7 @@ We are a team that consists of 6 people from 3 different learning paths as liste
     1. [(C2007F0718) Fauzia Dhiyaa’ Farros - Dian Nuswantoro University](https://github.com/fauzia-dhiyaa-farros)
     1. [(C7132F1601) Rizal Rahmat Ramadhan - Politeknik Negeri Padang](https://github.com/rizal1712)
 -   Mobile Development
-    1. [(A7132F1602) Muhammad Irfan](https://github.com/Muhammadirfan2301)
+    1. [(A7132F1602) Muhammad Irfan - Politeknik Negeri Padang](https://github.com/Muhammadirfan2301)
     1. [(A2012G1209) Aldi Lukmansyah Putra Yudi - Telkom University](https://github.com/aldilukmansyah)
 
 #

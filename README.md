@@ -22,11 +22,11 @@ We also use a reliable dataset, such as bmkg.go.id to provide accurate informati
 We are a team that consists of 6 people from 3 different learning paths as listed below:
 
 -   Machine Learning
-    1. [(M2007F0723) Rhedy Irwan](https://github.com/orgs/rhedygo)
+    1. [(M2007F0723) Rhedy Irwan](https://github.com/rhedygo)
     1. [(M7007F0752) Baihaqi Muhammad](https://github.com/MuffinCrunchy)
 -   Cloud Computing
     1. [(C2007F0718) Fauzia Dhiyaa’ Farros](https://github.com/fauzia-dhiyaa-farros)
-    1. [(C7132F1601) Rizal Rahmat Ramadhan](https://github.com//rizal1712)
+    1. [(C7132F1601) Rizal Rahmat Ramadhan](https://github.com/rizal1712)
 -   Mobile Development
     1. [(A7132F1602) Muhammad Irfan](https://github.com/Muhammadirfan2301)
     1. [(A2012G1209) Aldi Lukmansyah Putra Yudi](https://github.com/aldilukmansyah)

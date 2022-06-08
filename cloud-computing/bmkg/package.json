@@ -1,0 +1,25 @@
+{
+  "name": "rest-api-bmkg",
+  "version": "1.0.0",
+  "description": "REST API Perkiraan Cuaca Jakarta Selatan",
+  "author": "Fauzia Dhiyaa Farros & Rizal Rahmat Ramadhan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.23"
+  },
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/C22-PS340/Routeco.git"
+  }
+
+}

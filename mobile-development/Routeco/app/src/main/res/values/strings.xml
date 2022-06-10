@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Routeco</string>
+
+    <!--    navigation-->
+    <string name="nav_home">Home</string>
+    <string name="nav_location">Location</string>
+    <string name="nav_settings">Settings</string>
+
+    <!--    toolbar-->
+    <string name="name_routeco">Routeco</string>
+    <string name="name_maps">Maps</string>
+    <string name="name_settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="create_account">Create Account</string>
+    <string name="info">About</string>
+    <string name="logout">Log Out</string>
+
+    <!--    listitem-->
+    <string name="name_location">Location</string>
+    <string name="name_airquality">Air Quality</string>
+
+    <!--    Maps permission-->
+    <string name="activate_location_message">Please activate your location services</string>
+
+    <!--    Splash-->
+    <string name="logo">Logo</string>
+
+    <!--    Search-->
+    <string name="search_location">Search location</string>
+
+    <!--    DetailActivity-->
+    <string name="detail_location">Location Detail</string>
+    <string name="detail_weather">Weather Condition</string>
+    <string name="detail_polution">Polution</string>
+    <string name="detail_activity">Activity Recommendations</string>
+
+    <!--    Back Arrow-->
+    <string name="back">Back</string>
+
+    <!--    List Item -->
+    <string name="air_quality">Index Air Quality</string>
+</resources>

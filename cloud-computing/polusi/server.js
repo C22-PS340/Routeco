@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 // const resource = require("./air/index");
 const csvData = require ('./air/index')
-
+const model ='https://storage.googleapis.com/modelpolusi/model.tflite'
 
 const app = express();
 app.use(bodyParser.json());
@@ -14,8 +14,8 @@ app.get('/', function (req, res) {
     res.send(csvData);
 });
 
-app.get('/',function(req,res){
-
+app.get('/model',function(req,res){
+    res.send(model);
 })
 
 app.listen(8080, function () {
